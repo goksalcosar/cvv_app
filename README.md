@@ -26,7 +26,7 @@ Proje modüler bir yapıda geliştirilmiş olup, her bir CV bölümü ayrı bir 
 
 ```bash
 # Projeyi klonlayın
-git clone [repo-url]
+git clone https://github.com/goksalcosar/cvv_app.git
 
 # Bağımlılıkları yükleyin
 npm install
