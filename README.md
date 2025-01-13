@@ -1,6 +1,6 @@
 # CV Uygulaması
 
-Bu proje, Kapadokya Üniversitesi 2023-2024 Eğitim Yılı Bahar Dönemi React dersi vize ödevi için geliştirilmiştir.
+Bu proje, Kapadokya Üniversitesi 2023-2024 Eğitim Yılı Güz Dönemi React dersi vize ödevi için geliştirilmiştir.
 
 ## Proje Hakkında
 
